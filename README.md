@@ -58,3 +58,5 @@ The goal of Healthy Bites is to give its users quick and easy access to nutritio
   app_key = "YOUR_APP_KEY"
 5. Run the App
 - streamlit run app.py
+## Healthy Bites Demo: 
+👉
