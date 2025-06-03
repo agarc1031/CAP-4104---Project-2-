@@ -9,7 +9,7 @@ The goal of Healthy Bites is to give its users quick and easy access to nutritio
 
 ![giphy ](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpvaGp3bXZmNWoyOTJnZzZteGR4dGphcmJ5bDVneGlpZ2I3ZXltbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MXiWqZBY45qiJ818nX/giphy.gif)
 
-### Key Features
+## Key Features
 - 🔍 Search for any food item, such as "apple" or "cheeseburger"
 - 📊 View important nutritional information in a table
 - 📈 Visualize your nitrients with bar charts
@@ -19,7 +19,7 @@ The goal of Healthy Bites is to give its users quick and easy access to nutritio
 - 📦 Option to display raw JSON response from the API
 - 🎨 Streamlit widgets: text input, buttons, sliders, checkbox, text area, charts
 
-### How to Install and Run the Automated Usability Testing App
+## How to Install and Run the Automated Usability Testing App
 ### For Windows Users: 
 1. Clone the Repository
   - git clone https://github.com/yourusername/healthy-bites.git
