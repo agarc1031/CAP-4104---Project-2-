@@ -17,8 +17,8 @@ search = st.sidebar.button("Get Nutrition Info")
 st.info("This app provides calorie, sugar, fiber and other nutrient info. It also gives a gut health rating.")
 
 # API credentials (replace with your own)
-app_id = "YOUR_APP_ID"
-app_key = "YOUR_APP_KEY"
+app_id = "eaafef93"
+app_key = "e4917753bdd3ac24a1f2109d44a148af"
 
 # Function to get food data
 def fetch_nutrition(food):
