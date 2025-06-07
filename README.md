@@ -1,4 +1,4 @@
-# Welcome to Our App, Healthy Bites!
+# 🥗 Welcome to Our App, Healthy Bites!
 
 Designed with Streamlit, Healthy Bites lets users search for any food item and view comprehensive nutritional information driven by the Nutritionix API.  The app shows calories, sugar, fiber, fat, protein, and a personalized health score based on nutrient data, therefore guiding users in making better food decisions.
 
